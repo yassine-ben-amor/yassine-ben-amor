@@ -15,7 +15,7 @@ Multilingual: French, Arabic and Tunisian Derja. Deployed with Docker Compose.
 personalized course recommendations, timed exams and QR-verifiable certificates.
 `NestJS` `React` `PostgreSQL` `Prisma`
 
-**[E-commerce MERN](https://github.com/yassine-ben-amor/ecommerce-mern)** — Online store with catalog search and filters,
+**[StyleHub](https://github.com/yassine-ben-amor/ecommerce-mern)** — Online store with catalog search and filters,
 cart, wishlist, Stripe checkout, order tracking and an admin panel.
 JWT authentication with Google, Facebook and GitHub sign-in.
 `MongoDB` `Express` `React` `Node.js` `Stripe`
